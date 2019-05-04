@@ -18,3 +18,8 @@
 .cabecalhoPrincipal-nav {
     display: flex;
 }
+
+.rodapePrincipal-patrocinadores .container{  /*container está dentro do rodape*/
+    display: flex;
+
+}
