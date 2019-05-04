@@ -1,0 +1,20 @@
+.cabecalhoPrincipal-titulo{
+   /* display: inline-block; faz ficar um do lado do outro */
+   /* vertical-align: middle; se alinhando no meio */
+}
+
+.cabecalhoPrincipal-nav {
+    /* display: inline-block;
+    vertical-align: middle;  se alinhando no meio 
+    margin-left: 830px; */
+}
+
+.cabecalhoPrincipal .container {
+    display: flex; /*um do lado do outro é uma caixa*/
+    align-items: center; /* alinhando os elementos */
+    justify-content: space-between; /* espaço entre os elementos */
+}
+
+.cabecalhoPrincipal-nav {
+    display: flex;
+}
